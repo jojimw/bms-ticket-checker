@@ -1,5 +1,5 @@
 # bms-ticket-checker
-Chekcs the bookmyshow website whether the ticket booking has started for a movie in particular theatres of your choice
+Checks the bookmyshow website whether the ticket booking has started for a movie in particular theatres of your choice
 # bms.py
 * Check ticket availability and sends email when tickets are available
 * Makes a log whenever the script is executed
